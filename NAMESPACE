@@ -1,0 +1,7 @@
+export(GeomLinerangeh)
+export(GeomPointrangeh)
+export(PositionDodgev)
+export(geom_linerangeh)
+export(geom_pointrangeh)
+export(position_dodgev)
+import(ggplot2)

@@ -1,0 +1,14 @@
+Package: ggplothacks
+Version: 0.1
+Title: Add-ons and enhancements for ggplot2
+Description: Geom, positioning, faceting, and theme add-ons
+    for ggplot2
+Author: Daniel Schulman <danieljschulman@gmail.com>
+Maintainer: Daniel Schulman <danieljschulman@gmail.com>
+License: BSD
+Imports:
+    ggplot2
+Collate:
+    'geoms.r'
+    'package.r'
+    'positions.r'
