@@ -12,3 +12,4 @@ Collate:
     'geoms.r'
     'package.r'
     'positions.r'
+    'facets.r'
